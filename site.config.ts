@@ -42,12 +42,12 @@ export interface SiteConfig {
 }
 
 const config: SiteConfig = {
-  publishedBaseUrl: "https://raw.githubusercontent.com/your-org/your-org-records/published/",
-  orgName: "Your Organization",
-  contact: "records@example.org",
-  accent: "#2f6f4f",
-  site: "https://your-org.github.io",
-  base: "/your-org-site",
+  publishedBaseUrl: "https://lentago.github.io/uvularia-demo-records/",
+  orgName: "Stillwater Brook Watershed Alliance",
+  contact: "clerk@stillwaterbrook.example.org",
+  accent: "#2f6f4e",
+  site: "https://lentago.github.io",
+  base: "/uvularia-demo-site",
 };
 
 export default config;
