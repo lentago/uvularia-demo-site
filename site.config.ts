@@ -48,6 +48,8 @@ const config: SiteConfig = {
   accent: "#2f6f4e",
   site: "https://lentago.github.io",
   base: "/uvularia-demo-site",
+  askUrl: "https://kzkwvidphleik4ysswbbfs7nui0mxdww.lambda-url.us-east-1.on.aws/",
+  askDisclaimer: "This assistant reports what this organization has published and when. It is not legal, financial, or professional advice, and it does not determine whether any legal requirement has been met. For that, contact the organization or your own adviser.",
 };
 
 export default config;
